@@ -1,2 +1,3 @@
 # Assembly-Exercises-01
-This repository contains Assembly exercises from the Computer Systems Organization course at PUC-Campinas.
+These exercises mark the beginning of my journey with Assembly
+>ATIV1
